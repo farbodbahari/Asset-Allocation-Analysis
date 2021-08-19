@@ -2,13 +2,17 @@ Performing Monte Carlo simulation and sensitivity analysis to quantify the robus
 
 ### Case 1
 initial_contribution=100,000
+
 yearly_contribution=10,000
+
 yearly_withdraw= 20,000
 
 
 ### Case 2
 initial_contribution=100,000
+
 yearly_contribution=20,000
+
 yearly_withdraw=30,000
 
 
